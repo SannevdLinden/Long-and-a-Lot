@@ -37,7 +37,7 @@ A list of the libraries (with their respective code/licenses) are:
 
 - [UMAP](https://github.com/libscran/umappp) from Aaron Lun, [license](https://github.com/libscran/umappp/blob/master/LICENSE)
 - [aarand](https://github.com/LTLA/aarand/tree/master) from Aaron Lun, [license](https://github.com/LTLA/aarand/blob/master/LICENSE)
-- [knncolle](https://github.com/knncolle/knncolle) from Aaron Lun,[license] (https://github.com/knncolle/knncolle/tree/master?tab=MIT-1-ov-file#readme)
+- [knncolle](https://github.com/knncolle/knncolle) from Aaron Lun,[license](https://github.com/knncolle/knncolle/tree/master?tab=MIT-1-ov-file#readme)
 - [irlba](https://github.com/LTLA/CppIrlba) from Aaron Lun, [license](https://github.com/LTLA/CppIrlba/blob/master/LICENSE)
 - [kmeans](https://github.com/LTLA/CppKmeans) from Aaron Lun, [license](https://github.com/LTLA/CppKmeans?tab=MIT-1-ov-file#readme)
 - [annoy](https://github.com/spotify/annoy/tree/main) from Spotify , [license](https://github.com/spotify/annoy/blob/main/LICENSE)
