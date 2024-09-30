@@ -54,5 +54,5 @@ Please Cite our work (currently under review/submitted):
 
 
 ## License: 
-The license for the code of LoLo is [LGPL v3](https://www.gnu.org/licenses/gpl-3.0.html#license-text), see license file. The LGPL has some references to the GNU GPL license, which can be found [here](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+The license for the code of LoLo is [LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.en.html), see license file. The LGPL has some references to the GNU GPL license, which can be found [here](https://www.gnu.org/licenses/gpl-3.0.en.html). 
 
