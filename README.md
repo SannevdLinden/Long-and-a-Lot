@@ -48,11 +48,13 @@ A list of the libraries (with their respective code/licenses) are:
 
 ## Reference to paper:
 
-Please Cite our work (currently under review/submitted):
-"Sanne van der Linden, Bram Cappers, Anna Vilanova, Stef van den Elzen. 2024. Long and a Lot (LoLo): a Visual Analytics Approach for Analyzing Long Event Sequences." 
+Please Cite our work:
+"van der Linden, S., Cappers, B., Vilanova, A., & van den Elzen, S. (2025). Long sequences with a lot of events (LoLo): A visual analytics approach for analyzing long event sequences. Information Visualization." 
+[Link to paper](https://journals.sagepub.com/doi/full/10.1177/14738716251372584) (including demo video)
 
 
 
 ## License: 
 The license for the code of LoLo is [LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.en.html), see license file. The LGPL has some references to the GNU GPL license, which can be found [here](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+
 
